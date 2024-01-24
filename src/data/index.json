@@ -1,0 +1,63 @@
+{
+    "skills": [
+    {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Javascript, HTML, CSS, React, REST API, Figma"
+
+    },
+    {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "NodeJS, ExpressJS, Django, Flask, C, C++"
+
+    },
+    {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "Databases",
+        "description": "Firebase, MongoDB, PostgreSQL, MySQL"
+
+    },
+    {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Web Hosting",
+        "description": "Cloudflare, Azure, AWS"
+
+    },
+    {
+      "id": "5",
+      "src": "./img/feather-pen-1.png",
+      "title": "Others",
+      "description": "Postman, Insomnia, Microsoft Office, GIT"
+
+  }
+    ],
+
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./img/tempo2.png",
+          "title": "Tempo",
+          "description": "An AI app that categorizes users' thoughts and experiences into different life areas, providing personalized feedback and guidance to enhance emotional well-being and self-awareness.",
+          "link": "View on DevPost"
+        },
+        {
+          "id": "2",
+          "src": "./img/rellow.png",
+          "title": "Rellow",
+          "description": "Rellow is a revolutionary real estate platform driven by advanced AI technology. Rellow simplifies complex tasks - in this case, finding your dream property and making informed investments.",
+          "link": "View In Github"
+        },
+        {
+          "id": "3",
+          "src": "./img/promote.png",
+          "title": "PromoteAI",
+          "description": "PromoteAI is an AI companion that helps you design, plan, and execute social media marketing campaigns seamlessly on Facebook, Instagram, Twitter, and LinkedIn.",
+          "link": "View In Github"
+        }
+      ]
+}
