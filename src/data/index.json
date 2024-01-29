@@ -43,21 +43,25 @@
           "src": "./img/tempo2.png",
           "title": "Tempo",
           "description": "An AI app that categorizes users' thoughts and experiences into different life areas, providing personalized feedback and guidance to enhance emotional well-being and self-awareness.",
-          "link": "View on DevPost"
+          "link": "View On Devpost",
+          "href": "https://devpost.com/software/tempo-6zilkt"
         },
         {
           "id": "2",
           "src": "./img/rellow.png",
           "title": "Rellow",
           "description": "Rellow is a revolutionary real estate platform driven by advanced AI technology. Rellow simplifies complex tasks - in this case, finding your dream property and making informed investments.",
-          "link": "View In Github"
+          "link": "View On Devpost",
+          "href": "https://devpost.com/software/rellow-h5tayj"
         },
         {
           "id": "3",
           "src": "./img/promote.png",
           "title": "PromoteAI",
           "description": "PromoteAI is an AI companion that helps you design, plan, and execute social media marketing campaigns seamlessly on Facebook, Instagram, Twitter, and LinkedIn.",
-          "link": "View In Github"
+          "link": "View On Devpost",
+          "href": "https://devpost.com/software/promoteai"
+
         }
       ]
 }

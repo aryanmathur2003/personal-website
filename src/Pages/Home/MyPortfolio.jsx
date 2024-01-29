@@ -29,10 +29,13 @@ export default function MyPortfolio() {
             </div>
             <div className="portfolio--section--card--content">
               <div>
-                <h1 className="portfolio--section--title">{item.title}</h1>
+                <h1 className="portfolio--section--title">
+                
+                  {item.title}</h1>
                 <p className="hero--section-description">{item.description}</p>
               </div>
               <p className="text-sm portfolio--link">
+                <a href={item.href} target="_blank" rel="noopener noreferrer">
                 {item.link}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -49,6 +52,7 @@ export default function MyPortfolio() {
                     stroke-linejoin="round"
                   />
                 </svg>
+                </a>
               </p>
             </div>
           </div>
