@@ -9,10 +9,10 @@ export default function AboutMe() {
             <p className="section--title"></p>
             <h1 className="skills-section--heading">About Me</h1>
             <p className="hero--section-description">
-              My passion lies in coming up with innovative ideas and solutions to further communities. I believe that students can be the most valuable pieces to moving communities forward and as a student I am contributing toward making those differences. 
+            As a computer science enthusiast currently pursuing my education at Purdue University, I am passionate about driving positive change within communities through innovative solutions. Proficient in Python, JavaScript, C, C++, Java, and Typescript, my skills extend to back-end development and SQL. I leverage frameworks such as React.js, Node.js, React Native, Express.js, and Django. I am committed to using my technical expertise to contribute meaningfully to the dynamic field of computer science, with the goal of enhancing lives and communities through advanced technology. 
             </p>
             <p className="hero--section-description">
-            I am a computer science enthusiast and believe in the potential that it has to making lives better. I am a skilled programmer with extensive knowledge and experience in Java, Javascript, C, Python and Back End development. I am currently furthering my education in computer science at Purdue University.
+            
             </p>
           </div>
         </div>
