@@ -4,14 +4,14 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Javascript, HTML, CSS, React, REST API, Figma"
+        "description": "Javascript, HTML, CSS, React, REST API"
 
     },
     {
         "id": "2",
         "src": "./img/tag-1.png",
         "title": "Back-End",
-        "description": "Python, Java, C, NodeJS, ExpressJS, Django, Flask, C, C++"
+        "description": "Python, Java, C/C++, NodeJS, ExpressJS, Django, Flask"
 
     },
     {
@@ -25,7 +25,7 @@
         "id": "4",
         "src": "./img/feather-pen-1.png",
         "title": "Web Hosting",
-        "description": "Cloudflare, Azure, AWS"
+        "description": "Cloudflare, Azure, AWS, GCP"
 
     },
     {
