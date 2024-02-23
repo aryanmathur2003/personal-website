@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is Aryan Mathurs personal website which is hosted on mathurs.fyi. 
 
 ## Available Scripts
 
