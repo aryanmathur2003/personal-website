@@ -38,6 +38,7 @@
     ],
 
     "portfolio": [
+
         {
           "id": "1",
           "src": "./img/tempo2.png",
@@ -62,6 +63,13 @@
           "link": "View On Devpost",
           "href": "https://devpost.com/software/promoteai"
 
+        },
+        {
+          "id": "1",
+          "src": "./img/tempo2.png",
+          "title": "Monetyze",
+          "description": "Tool to connect Influencers and Businesses",
+          "link": "Not Available"
         }
       ]
 }
