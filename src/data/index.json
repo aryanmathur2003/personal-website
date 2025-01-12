@@ -1,75 +1,67 @@
 {
-    "skills": [
-    {
-        "id": "1",
-        "src": "./img/product-chain-1.png",
-        "title": "Front-End",
-        "description": "Javascript, HTML, CSS, React, REST API"
-
-    },
-    {
-        "id": "2",
-        "src": "./img/tag-1.png",
-        "title": "Back-End",
-        "description": "Python, Java, C/C++, NodeJS, ExpressJS, Django, Flask, REST API, SQL"
-
-    },
-    {
-        "id": "3",
-        "src": "./img/feather-pen-2.png",
-        "title": "Databases",
-        "description": "Firebase, MongoDB, PostgreSQL, MySQL"
-
-    },
-    {
-        "id": "4",
-        "src": "./img/feather-pen-1.png",
-        "title": "Web Hosting",
-        "description": "Cloudflare, Azure, AWS, GCP"
-
-    },
-    {
-      "id": "5",
-      "src": "./img/feather-pen-1.png",
-      "title": "Others",
-      "description": "Postman, Insomnia, Microsoft Office, GIT"
-
-  }
-    ],
-
-    "portfolio": [
-
-        {
+  "skills": [
+      {
+          "id": "1",
+          "src": "./img/product-chain-1.png",
+          "title": "Front-End",
+          "description": "JavaScript, HTML, CSS, React, REST APIs"
+      },
+      {
+          "id": "2",
+          "src": "./img/tag-1.png",
+          "title": "Back-End",
+          "description": "Python, Java, C/C++, Node.js, Express.js, Django, Flask, REST APIs, SQL"
+      },
+      {
+          "id": "3",
+          "src": "./img/feather-pen-2.png",
+          "title": "Databases",
+          "description": "Firebase, MongoDB, PostgreSQL, MySQL"
+      },
+      {
+          "id": "4",
+          "src": "./img/feather-pen-1.png",
+          "title": "Web Hosting",
+          "description": "Cloudflare, Azure, AWS, GCP"
+      },
+      {
+          "id": "5",
+          "src": "./img/feather-pen-1.png",
+          "title": "Tools & Miscellaneous",
+          "description": "Postman, Insomnia, Microsoft Office, Git, Llama 2 Integration"
+      }
+  ],
+  "portfolio": [
+      {
           "id": "1",
           "src": "./img/tempo2.png",
           "title": "Tempo",
-          "description": "An AI app that categorizes users' thoughts and experiences into different life areas, providing personalized feedback and guidance to enhance emotional well-being and self-awareness.",
+          "description": "An AI-driven app designed to help users categorize their thoughts and experiences into distinct life areas. Tempo offers personalized feedback and actionable insights to enhance emotional well-being and promote self-awareness.",
           "link": "View On Devpost",
           "href": "https://devpost.com/software/tempo-6zilkt"
-        },
-        {
+      },
+      {
           "id": "2",
           "src": "./img/rellow.png",
           "title": "Rellow",
-          "description": "Rellow is a revolutionary real estate platform driven by advanced AI technology. Rellow simplifies complex tasks - in this case, finding your dream property and making informed investments.",
+          "description": "An innovative real estate platform powered by advanced AI technology. Rellow simplifies the process of finding properties, enabling users to make data-driven investment decisions efficiently.",
           "link": "View On Devpost",
           "href": "https://devpost.com/software/rellow-h5tayj"
-        },
-        {
+      },
+      {
           "id": "3",
           "src": "./img/promote.png",
           "title": "PromoteAI",
-          "description": "PromoteAI is an AI companion that helps you design, plan, and execute social media marketing campaigns seamlessly on Facebook, Instagram, Twitter, and LinkedIn.",
+          "description": "A cutting-edge AI companion that streamlines the creation, planning, and execution of social media marketing campaigns across platforms like Facebook, Instagram, Twitter, and LinkedIn.",
           "link": "View On Devpost",
           "href": "https://devpost.com/software/promoteai"
-
-        },
-        {
-          "id": "1",
+      },
+      {
+          "id": "4",
           "src": "./img/tempo2.png",
           "title": "Monetyze",
-          "description": "Tool to connect Influencers and Businesses",
+          "description": "A powerful platform designed to bridge the gap between influencers and businesses, fostering collaboration and enabling efficient partnerships for marketing campaigns.",
           "link": "Not Available"
-        }
-      ]
+      }
+  ]
 }
